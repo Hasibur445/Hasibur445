@@ -5,7 +5,7 @@
 - ✨ I'm proficient in ✨DL✨ML✨Python✨SQL✨Web Development✨Java✨C++✨Android App Development✨
 - 📫 How to reach me:
   - mail me @ hasib.56808@gmail.com
-  - linkedin @ www.linkedin.com/in/md-hasibur-rahman-56154b1a7
+  - linkedin @ www.linkedin.com/in/hasibur445
   
 
 <!---
